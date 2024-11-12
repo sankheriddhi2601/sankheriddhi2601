@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm an MSc Data Science graduate with a strong fou
 ---
 ### 💻 Featured Projects
 
-#### [📘 Skin Lesion Medical Segmentation using MultiResUNet](https://github.com/YourUsername/SkinLesionSegmentation)
+#### [📘 Skin Lesion Medical Segmentation using MultiResUNet](https://github.com/sankheriddhi2601/SkinLesionSegmentation)
 - **Description**: Implemented a deep learning model using MultiResUNet for accurate segmentation of skin lesions, achieving a 93% accuracy on a dataset of ~2,000 medical images.
 - **Tech Stack**: Python, TensorFlow, Keras
 - **Highlights**:
