@@ -67,3 +67,4 @@ I'm always interested in connecting with fellow data scientists and developers. 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/riddhi-sankhe) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:riddhisankhe@hotmail.com)
 
 ---
+Thanks for visiting my profile! 😊 Let's connect and create impactful data-driven solutions together!
