@@ -8,3 +8,13 @@ Welcome to my GitHub profile! I'm an MSc Data Science graduate with a strong fou
 - 🔗 Connect with me on [LinkedIn](https://linkedin.com/in/riddhi-sankhe)
 
 ---
+
+### 🛠️ Technical Skills
+
+- **Languages**: Python, R, SQL, C
+- **Frameworks and Libraries**: MultiResUNet, BERT, NLP
+- **Data Visualization**: Looker, Superset, Power BI
+- **Data Warehousing and Cloud**: Azure Blob Storage, Databricks, AWS
+- **Other Tools**: Google Analytics, Google Search Console, SEO tools, ERP System Integration
+
+---
